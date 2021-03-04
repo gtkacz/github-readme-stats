@@ -5,7 +5,7 @@ const themes = {
     text_color: "333",
     bg_color: "fffefe",
   },
-  github_night_mode: {
+  nightmode: {
     title_color: "2f80ed",
     icon_color: "4c71f2",
     text_color: "333",
