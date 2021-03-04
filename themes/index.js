@@ -5,6 +5,12 @@ const themes = {
     text_color: "333",
     bg_color: "fffefe",
   },
+  github_night_mode: {
+    title_color: "2f80ed",
+    icon_color: "4c71f2",
+    text_color: "333",
+    bg_color: "0D1117",
+  },
   default_repocard: {
     title_color: "2f80ed",
     icon_color: "586069", // icon color is different
